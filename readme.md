@@ -17,6 +17,9 @@ The client folder contains a [react app](https://reactjs.org/) using [vite](http
 2. Run `npm install` to install all the depedencies
 3. Run `npm run dev` to start the application 
 4. Now you should be able to visit the app at http://127.0.0.1:5173/
+<h2 align="center">
+  <img src="cliet_interface.png"  width="80%">
+</h2>
 
 ### Server
 
@@ -29,3 +32,8 @@ The server folder contains a node.js server using [express](https://expressjs.co
 The application should connect to the default server port (3042) automatically! 
 
 _Hint_ - Use [nodemon](https://www.npmjs.com/package/nodemon) instead of `node` to automatically restart the server on any changes.
+
+<h2 align="center">
+  <img src="server_generatedKeys.png"  width="80%">
+  <img src="server_sett_generatedKeys.png"  width="80%">
+</h2>
