@@ -34,6 +34,6 @@ The application should connect to the default server port (3042) automatically!
 _Hint_ - Use [nodemon](https://www.npmjs.com/package/nodemon) instead of `node` to automatically restart the server on any changes.
 
 <h2>
-  <img src="server_generatedKeys.png"  width="80%">
+  <img src="server_generatedKeys.png"  width="80%"><br>
   <img src="server_sett_generatedKeys.png"  width="80%">
 </h2>
