@@ -20,7 +20,9 @@ The client folder contains a [react app](https://reactjs.org/) using [vite](http
 <h2 a>
   <img src="client_interface.png"  width="80%">
 </h2>
-
+<br>
+<hr>
+<br>
 ### Server
 
 The server folder contains a node.js server using [express](https://expressjs.com/). To run the server, follow these steps:
